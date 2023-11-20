@@ -50,7 +50,7 @@ The Marketing department experiences the highest turnover rate, followed by Trai
 Departments such as Research and Development, Support, and Legal have lower turnover rates.
 
 
-### 8.State of Origin:
+### 8. State of Origin:
 A considerable number of employees originate from the state of Ohio.
 
 ### 9. Net Change in Employees:
