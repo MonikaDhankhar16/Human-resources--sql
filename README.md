@@ -7,6 +7,23 @@
 
 
 
+
+# Problem Statements:
+1.How many male and female employees are there in the company?
+2.What is the racial and ethnic composition of the company's workforce?
+3.How are employees distributed across different age groups?
+4.What is the ratio of employees working at the headquarters versus those in remote locations?
+5.On average, how long do terminated employees work at the company?
+5.How is gender distributed across different departments and job titles?
+7.What are the various job titles held by employees in the company?
+8.Which department experiences the highest rate of employee turnover?
+9.In which states are employees located, and what is their distribution?
+10.How has the total employee count changed over time based on hiring and termination dates?
+11.What is the distribution of employment tenure for each department?
+
+
+
+
 # Important insights:
 ### 1.Gender Distribution:
 The dataset exhibits a higher representation of male employees compared to females.
