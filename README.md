@@ -1,4 +1,4 @@
-#HUMAN RESOURCE ANALYSIS
+# HUMAN RESOURCE ANALYSIS
 
 # About dataset & tools used
 ### The dataset consists of HR data comprising over 22,000 rows spanning from the year 2000 to 2020.
