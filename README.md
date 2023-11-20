@@ -1,3 +1,12 @@
+## The dataset consists of HR data comprising over 22,000 rows spanning from the year 2000 to 2020.
+
+## Data Cleaning and analysis was conducted using MySQL Workbench.
+
+## For Data Visualization, PowerBI was employed.
+
+
+
+
 ## Important insights:
 
 
